@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component
 
-![Design preview for the QR code component coding challenge]("C:\Users\PC\Desktop\computer science\Web-Projects\Web project (HTML + CSS)\My-Web-Projects\Web Page 4(QR Code Component)\frontend-mentor-qr-code\qr-code-component-main\preview.jpg")
+![Design preview for the QR code component coding challenge]("preview.jpg")
 
 ## Welcome! 👋
 
